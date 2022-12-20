@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **WEB DEVELPOMENT**
 
-- 💬 Ask me about **HEML , CSS**
+- 💬 Ask me about **HTML , CSS**
 
 - 📫 How to reach me **nitin2201singh@gmail.com**
 
