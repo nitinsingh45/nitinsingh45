@@ -6,9 +6,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&usqp=CAU">
 
-- 🌱 I’m currently learning **Flutter**
-
-- 💬 Ask me about **HTML , CSS , flutter , c ,c++**
+- 🌱 I’m currently working as a **Flutter developer**
 
 - 📫 How to reach me **nitin2201singh@gmail.com**
 
